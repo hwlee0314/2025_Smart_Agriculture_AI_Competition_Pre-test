@@ -35,11 +35,6 @@ R2 (R-squared, 결정 계수)
 
 ```
 2025_Smart_Agriculture_AI_Competition/
-├── data/               
-│   ├── x_train.csv
-│   ├── x_test.csv
-│   ├── y_train.csv
-│   └── 2025 스마트농업 AI 경진대회_사전테스트_문제 설명서_최종.pdf
 ├── notebooks/           
 │   ├── inference.ipynb
 │   ├── train-ml.ipynb
