@@ -12,5 +12,7 @@ venv/
 # IDE 및 에디터 설정 파일
 .vscode/
 .idea/
+.DS_Store
 
-모델개발전략.pdf
+# 데이터 폴더
+data/
